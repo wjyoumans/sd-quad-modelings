@@ -1,7 +1,7 @@
 # sd-quad-modelings
 
 Code for the experiments of *An Improved Quadratic Modeling for Exact
-Syndrome Decoding* by Ryann Cartor, Madison Mabe and William Youmans.
+Syndrome Decoding*.
 
 ## Requirements
 
